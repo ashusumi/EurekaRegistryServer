@@ -1,0 +1,3 @@
+[submodule "regisrty"]
+	path = regisrty
+	url = https://github.com/ashusumi/Microservice.git
